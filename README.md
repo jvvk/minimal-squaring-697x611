@@ -8,4 +8,8 @@ Placements (x, y, side), origin at the bottom-left corner:
 (0,0,371) (371,0,326) (371,326,41) (412,326,285) (371,367,4) (375,367,37) (0,371,240) (240,371,68)
 (308,371,34) (342,371,33) (342,404,35) (377,404,35) (308,405,34) (240,439,172)
 
-Context: [MathOverflow q/116382](https://mathoverflow.net/q/116382).
+Context: the MathOverflow question [tiling a rectangle with the smallest number of squares](https://mathoverflow.net/q/116382), which asked whether a 17-square tiling of this rectangle is minimal ([answer](https://mathoverflow.net/a/515613)).
+
+## Licence
+
+The figures and placements are released under [CC BY 4.0](LICENSE).
